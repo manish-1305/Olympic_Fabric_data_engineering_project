@@ -4,7 +4,7 @@
 This project focuses on building a comprehensive data engineering pipeline for the Tokyo Olympic Games, leveraging Fabric services such as Lakehouse, Data pipelines, notebooks. The pipeline aims to handle data integration, transformation, and analysis to support valuable insights for the Olympic events.
 
 ##Architecture
-![Project Architecture](images/architecture.png)
+![Project Architecture](images/Architecture.png)
 
 ## Technologies Used
 - Fabric Lakehouse - Store big data for cleaning, querying, sharing, and reporting
