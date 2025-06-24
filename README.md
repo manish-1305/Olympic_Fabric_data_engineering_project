@@ -11,3 +11,6 @@ This project focuses on building a comprehensive data engineering pipeline for t
 - Fabric Data Pipelines - Ingest data at scale and schedule workflows
 - Fabric Notebooks - Explore, analyse and transform using PySpark and T-SQL.
 - Power BI - Created Data visualizations and reports.
+
+## Data Pipeline
+![Pipeline](images/pipeline_copy.png)
